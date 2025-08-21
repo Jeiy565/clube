@@ -1,0 +1,33 @@
+horario = ""
+
+
+
+pergunta2 = 'torçe pra qual time?'
+print (pergunta2)
+
+
+torço = ""
+
+print (torço)
+
+
+
+
+
+if horario == ("manhã"):
+  print("Bom dia!")
+if horario == "tarde":  
+  print("Boa tarde!") 
+if horario == "noite":
+  print("Boa noite!")
+  
+if torço == "galo":
+    print("ta certo uai ")
+if torço == "vasco":
+    print("tadin kkkkk")
+if torço == "flamengo":
+    print("em minas? modinha!")
+if torço == "america":
+    print("Então eles existem mesmo, nunca tinha visto um de perto")
+if torço == "curintia":
+    print("Breno?E vc?")
