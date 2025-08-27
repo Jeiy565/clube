@@ -1,3 +1,20 @@
+i = 0
+
+while 1:
+
+    i+=1
+
+    if i == 11:
+        break
+    
+    if i % 2 == 1:
+        continue
+    
+    print (i)
+
+
+
+
 indice = 1
 limite = 100
 controle = 0
