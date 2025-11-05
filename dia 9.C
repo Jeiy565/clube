@@ -1,9 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-
-
 void soma (){
-    int num1, num2, num3, resultado;
+    int num1, num2, resultado;
     
     printf("Digite dois numeros:");
 
@@ -26,8 +24,8 @@ int main(){
         else {printf("%d\n", i);
     
             
-}
+} 
+
         
-        
+    }
 }
-    
